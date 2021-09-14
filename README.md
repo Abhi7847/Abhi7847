@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhiram
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning MSc Data Analytics
-- 💞️ I’m looking to collaborate on begginers projects
+- 💞️ Programmers who want to learn the more advanced features of R and Python Programming.
 
 
 <!---
