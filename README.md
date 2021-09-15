@@ -1,7 +1,11 @@
 
+### Hi, I'm Abhiram M
+#### Data Analyst from India
+![DA](https://user-images.githubusercontent.com/88245799/133374162-a8e645bb-f6ea-43a3-a699-3405cbe19420.jpg)
 
-<h1 align="left">Hi 👋, I'm Abhiram M</h1>
-<h3 align="left">A passionate Programmer from India</h3>
+I'm Abhiram, pursuing MSc in Data Analytics from Christ University, Bangalore. And I enjoy learning about platforms for effective data analysis, including R Python, SQL, spreadsheets, Tableau, and Power BI. 
+
+Skills: R Programming | Python | Excel | Data Analysis | SQL
 
 - 🌱 I’m currently learning **MSc Data Analytics at Christ University, Bangalore**
 - 💞️ **Wants to learn the more advanced features of R and Python Programming**
